@@ -1,5 +1,7 @@
 # Grocery Web App
 
+Demo - <a href="https://drive.google.com/file/d/1trTAWYo2SOI_M3Y18poepQzKGGTtlpFs/view?usp=drivesdk">view video</a>
+
 ## 📖 Project Overview  
 The *Grocery Web App* is a full-stack application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This platform allows users to browse, search, and purchase groceries online. It provides a user-friendly interface for customers and a robust backend for managing inventory, orders, and user profiles.  
 
